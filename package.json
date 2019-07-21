@@ -1,0 +1,22 @@
+{
+  "name": "redux-only",
+  "version": "1.0.0",
+  "description": "Redux for beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanv/redux.git"
+  },
+  "author": "Van Vairavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanv/redux/issues"
+  },
+  "homepage": "https://github.com/Vanv/redux#readme",
+  "dependencies": {
+    "redux": "^4.0.4"
+  }
+}
